@@ -42,10 +42,10 @@ namespace Punto5
             this.lbValDesc = new System.Windows.Forms.Label();
             this.lbTotalAPagar = new System.Windows.Forms.Label();
             this.grbTotalVent = new System.Windows.Forms.GroupBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.lbvalTotVent = new System.Windows.Forms.Label();
             this.lbTotalDesc = new System.Windows.Forms.Label();
+            this.lbvalTotVent = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.btnSiguiente = new System.Windows.Forms.Button();
             this.btnFacturar = new System.Windows.Forms.Button();
             this.btnTerminar = new System.Windows.Forms.Button();
@@ -172,15 +172,21 @@ namespace Punto5
             this.grbTotalVent.Text = "Ventas:";
             this.grbTotalVent.Visible = false;
             // 
-            // label7
+            // lbTotalDesc
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(31, 28);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(194, 18);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "Valor total de las ventas:";
+            this.lbTotalDesc.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lbTotalDesc.Location = new System.Drawing.Point(311, 87);
+            this.lbTotalDesc.Name = "lbTotalDesc";
+            this.lbTotalDesc.Size = new System.Drawing.Size(143, 23);
+            this.lbTotalDesc.TabIndex = 3;
+            // 
+            // lbvalTotVent
+            // 
+            this.lbvalTotVent.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lbvalTotVent.Location = new System.Drawing.Point(311, 32);
+            this.lbvalTotVent.Name = "lbvalTotVent";
+            this.lbvalTotVent.Size = new System.Drawing.Size(143, 23);
+            this.lbvalTotVent.TabIndex = 2;
             // 
             // label8
             // 
@@ -192,21 +198,15 @@ namespace Punto5
             this.label8.TabIndex = 1;
             this.label8.Text = "Valor total de descuentos:";
             // 
-            // lbvalTotVent
+            // label7
             // 
-            this.lbvalTotVent.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbvalTotVent.Location = new System.Drawing.Point(311, 32);
-            this.lbvalTotVent.Name = "lbvalTotVent";
-            this.lbvalTotVent.Size = new System.Drawing.Size(143, 23);
-            this.lbvalTotVent.TabIndex = 2;
-            // 
-            // lbTotalDesc
-            // 
-            this.lbTotalDesc.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbTotalDesc.Location = new System.Drawing.Point(311, 87);
-            this.lbTotalDesc.Name = "lbTotalDesc";
-            this.lbTotalDesc.Size = new System.Drawing.Size(143, 23);
-            this.lbTotalDesc.TabIndex = 3;
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(31, 28);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(194, 18);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "Valor total de las ventas:";
             // 
             // btnSiguiente
             // 
