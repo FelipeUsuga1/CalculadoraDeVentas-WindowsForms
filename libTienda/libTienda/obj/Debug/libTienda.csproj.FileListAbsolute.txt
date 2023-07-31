@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libTienda\libTienda\bin\Debug\libTienda.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libTienda\libTienda\bin\Debug\libTienda.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libTienda\libTienda\obj\Debug\libTienda.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libTienda\libTienda\obj\Debug\libTienda.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libTienda\libTienda\obj\Debug\libTienda.pdb

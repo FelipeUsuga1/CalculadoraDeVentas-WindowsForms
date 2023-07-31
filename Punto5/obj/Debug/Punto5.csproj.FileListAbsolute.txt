@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\bin\Debug\Punto5.exe.config
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\bin\Debug\Punto5.exe
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\bin\Debug\Punto5.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\bin\Debug\libTienda.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\bin\Debug\libTienda.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.Form1.resources
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.Properties.Resources.resources
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.csproj.CopyComplete
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.exe
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto5\Punto5\obj\Debug\Punto5.pdb
